@@ -14,7 +14,7 @@ To get started with this repository:
     ```
 2. Navigate to the directory
    ```bash
-   cd Data_structure-Fall1402
+   cd AlgorithmDesign-Fall1402
    ```
 ## Contact Information
 For any questions or clarifications, please don't hesitate to contact us:
