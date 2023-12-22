@@ -10,7 +10,7 @@ To get started with this repository:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/alishazaee/Data_structure-Fall1402.git
+   git clone https://github.com/alishazaee/AlgorithmDesign-Fall1402.git
     ```
 2. Navigate to the directory
    ```bash
